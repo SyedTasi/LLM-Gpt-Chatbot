@@ -12,3 +12,7 @@ Meet MultiPDF Chat App! 🚀 Chat seamlessly with multiple PDFs using natural la
 4.  Match Game: Wondering how it works? When you ask a question, our GPT-3.5-infused app finds the most similar text chunks – like magic!
 
 5.  Response Generation: Your selected chunks go through the GPT-3.5 language model, which generates a response based on the relevant content of the PDFs. – your questions, answered in a snap! 📚✨🚀
+
+# Workflow
+
+![workflow](https://github.com/SyedTasi/LLM-Gpt-Chatbot/assets/43497485/419e2ee6-9514-424c-9ddd-24e461b30820)
