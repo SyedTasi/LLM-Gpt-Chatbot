@@ -11,7 +11,7 @@ Meet MultiPDF Chat App! 🚀 Chat seamlessly with multiple PDFs using natural la
 
 # Working Module
 
-1.  **PDF Wizardry:** Dive into the PDF realm effortlessly! the app, powered by the mighty GPT-3.5, reads multiple documents, unlocking their textual secrets with unparalleled precision using **RAG(Retreival Augmented Generation)** Technique.
+1.  **PDF Wizardry:** Dive into the PDF realm effortlessly! the app, powered by the mighty GPT-3.5, reads multiple documents, unlocking their textual secrets with unparalleled precision using **RAG(Retreival Augmented Generation) Technique**.
 
 2.  **Chunk it Up!:** Break down the extracted text into bite-sized chunks for super-smooth processing
 
