@@ -1,6 +1,14 @@
 # LLM-Gpt-Chatbot
 Meet MultiPDF Chat App! 🚀 Chat seamlessly with multiple PDFs using natural language. Get instant, accurate responses from the language model. 📚💬 Transform your Q&A experience now! 🔥✨
 
+# Access it Here
+1.  **Seamless Launch:** Simply click (https://llm-gpt-chatbot-hs8sbelkbslb8chzimfdgc.streamlit.app/) to launch the app in your default web browser, unveiling a user-friendly interface.
+
+2.  **Effortless Loading:** Upload multiple PDFs with a click! Hit **'Process'** and wait untill the data is converted intto chunks and let the app work its magic. Once the processing is complete, dive into the chat interface.
+
+3.  **Curiosity Unleashed:** Ask questions in natural language about the loaded PDFs. Need more answers? Just clear the search bar and fire away with new questions. The conversation never stops! 🚀💬
+
+
 # Working Module
 
 1.  **PDF Wizardry:** Dive into the PDF realm effortlessly! the app, powered by the mighty GPT-3.5, reads multiple documents, unlocking their textual secrets with unparalleled precision.
