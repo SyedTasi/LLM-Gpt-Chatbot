@@ -1,11 +1,11 @@
 # LLM-Gpt-Chatbot
 Meet MultiPDF Chat App! 🚀 Chat seamlessly with multiple PDFs using natural language. Get instant, accurate responses from our language model. 📚💬 Transform your PDF experience now! 🔥✨
 
-# Working 
+# Working Module
 
-1.  PDF Wizardry: Dive into the PDF realm effortlessly! Our app, powered by the mighty GPT-3.5, reads multiple documents, unlocking their textual secrets with unparalleled precision.
+1.  PDF Wizardry: Dive into the PDF realm effortlessly! the app, powered by the mighty GPT-3.5, reads multiple documents, unlocking their textual secrets with unparalleled precision.
 
-2. Chunk it Up!: Break down the extracted text into bite-sized chunks for super-smooth processing
+2.  Chunk it Up!: Break down the extracted text into bite-sized chunks for super-smooth processing
 
 3.  Language Power: Harness the transformative power of GPT-3.5! the app utilizes this language model for mind-blowing vector representations of those text chunks.
 
